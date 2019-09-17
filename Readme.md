@@ -11,7 +11,7 @@ This repository presents a reproduction of the scenario presented by <a href="ht
 > clone this repo to your local machine using 
 
 ```shell
-$ git clone `https://github.com/ddefb/PGIA7336`
+$ git clone `https://github.com/ddefb/Smart-Environment`
 ```
 
 ## Setup
